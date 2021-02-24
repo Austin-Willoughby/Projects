@@ -1,2 +1,2 @@
 # Projects
-These projects represent past projects I have worked on.
+These projects are representative of my work and skillset.
